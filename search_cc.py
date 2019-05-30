@@ -1,4 +1,4 @@
-# python C:\Script\20190518_ipv4_to_cc\search_cc.py 1.1.1.1
+# python %google_drive_path%\Script\ipv4_to_cc\search_cc.py 1.1.1.1
 # -*- coding: utf-8 -*-
 # IPアドレスからCountry Codeを取得する
 import sys
