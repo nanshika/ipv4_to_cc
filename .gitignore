@@ -1,5 +1,10 @@
-*.log
 *.lnk
+*.log
+*.bak
+.git
+.vscode
 Copy*conflict*
+__pycache__
+build
+dist
 ignore
-rawdata
